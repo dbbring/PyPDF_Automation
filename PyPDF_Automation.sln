@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PyPDF_Automation", "PyPDF_Automation\PyPDF_Automation.pyproj", "{ED96BBDC-345E-41CE-8C0C-49847A305FA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED96BBDC-345E-41CE-8C0C-49847A305FA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED96BBDC-345E-41CE-8C0C-49847A305FA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A04A9EDB-0BB5-4516-967B-07368F1A4B31}
+	EndGlobalSection
+EndGlobal
