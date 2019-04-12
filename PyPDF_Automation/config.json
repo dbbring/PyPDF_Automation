@@ -1,0 +1,12 @@
+{
+  "emailAddress": "",
+  "emailPassword": "",
+  "pdfToBeParsed": "",
+  "findTextNotInImage": "",
+  "amountOfCharsAfterTxt":,
+  "textInImage": null,
+  "amountOfCharsAfterImageTxt":,
+  "tempFileLocation": "output.png",
+  "exportJsonLocation": "pdfJSON.json",
+  "emailInterval": "180"
+}
